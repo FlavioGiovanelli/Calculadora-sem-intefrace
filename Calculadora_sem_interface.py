@@ -72,17 +72,3 @@ else:
 
 
 print("O resultado da operação é:", resultado)
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
